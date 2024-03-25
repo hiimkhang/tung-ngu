@@ -5,7 +5,7 @@ python -m venv venv/
 # activate it
 source venv/bin/activate
 
-# install requirements ML packages
+# install required ML packages
 pip install -r requirements.txt
 
 ```
